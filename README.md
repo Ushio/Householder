@@ -22,7 +22,7 @@ Px & =x-2\frac{v\cdot x}{v\cdot v} v\\
 \end{aligned}
 $$
 
-Thus, it's $ P=I-2\frac{vv^{T}}{v^{T} v} $
+Thus, it's $P=I-2\frac{vv^{T}}{v^{T} v}$
 
 As an implementation,
 ```
